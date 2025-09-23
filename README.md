@@ -3,7 +3,7 @@
 We propose DuoGPT, a training-free pruning framework that integrates activation sparsity into OBC framework to enable efficient dual-sparse LLM inference with state-of-the-art accuracy–efficiency trade-offs and scalability.
 
 <h1 align="center">   
-    <img src="./img/intro.png" width="1000">  
+    <img src="./intro.png" width="1000">  
 </h1>  
 
 Code implementation of DuoGPT (NeurIPS 2025)
